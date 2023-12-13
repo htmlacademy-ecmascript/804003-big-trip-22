@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Андрей Ложкин](https://up.htmlacademy.ru/ecmascript/22/user/804003).
-* Наставник: `Неизвестно`.
+* Наставник: [Антон Попов](https://htmlacademy.ru/profile/joker).
 
 ---
 
